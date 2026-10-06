@@ -1,6 +1,8 @@
 # MATETOPIA — Presentación Visual
 
 > **ES:** Presentación visual sobre astronomía y espacio, diseñada en Canva.
+
+![matetopia](images/matetopia-01.jpg)
 > **EN:** A visual presentation about astronomy and space, designed in Canva.
 
 **[▶ Ver presentación en Canva](https://www.canva.com/design/DAHJaUn74-w/RYIFQpcrMlpvVxxaZFCkAQ/view)**
@@ -54,3 +56,9 @@ and concept synthesis.
 
 - `images/` — preview/cover.
 - Full presentation on [Canva](https://www.canva.com/design/DAHJaUn74-w/RYIFQpcrMlpvVxxaZFCkAQ/view).
+
+---
+
+## Galería / Gallery
+
+![matetopia 1](images/matetopia-01.jpg)
